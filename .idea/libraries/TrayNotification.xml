@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="TrayNotification">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/COVOITURAGE_APP_JAVAFX_JPA/TrayNotification.jar!/" />
+      <root url="jar://$PROJECT_DIR$/COVOITURAGE_APP_JAVAFX_JPA/pdfa-7.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/COVOITURAGE_APP_JAVAFX_JPA/layout-7.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/COVOITURAGE_APP_JAVAFX_JPA/kernel-7.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/COVOITURAGE_APP_JAVAFX_JPA/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/COVOITURAGE_APP_JAVAFX_JPA/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/COVOITURAGE_APP_JAVAFX_JPA/io-7.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
